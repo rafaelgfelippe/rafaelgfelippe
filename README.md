@@ -7,12 +7,12 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
 
 ## Principais Habilidades Técnicas
 
-• Sistemas operacionais Windows/Linux </b>
-• SQL para extração e manipulação de dados; 
-• Banco de dados como, MySQL, Oracle e MongoDB;
-• Hadoop e Spark para Big Data; 
-• Python e R com foco em Data Science;
-• Tableau, Qlik Sense e PowerBI.
+• Sistemas operacionais Windows/Linux <br>
+• SQL para extração e manipulação de dados; <br>
+• Banco de dados como, MySQL, Oracle e MongoDB; <br>
+• Hadoop e Spark para Big Data; <br>
+• Python e R com foco em Data Science; <br>
+• Tableau, Qlik Sense e PowerBI. <br>
 
 Visite meu [portfólio de projeto](https://rafaelgfelippe.github.io/)!
 
