@@ -2,10 +2,7 @@
   <img src = href="https://imgur.com/G7hYVoO"><img src="https://i.imgur.com/G7hYVoO.png" title="source: imgur.com" /></a>
 </p>
 
-Trabalho em projetos de Data Science utilizando as principais ferramentas do mercado. 
-Nessa área, minha experiência inclui a extração de dados em bancos relacionais e não relacionais, análise exploratória e pré-processamento dos dados, criação e avaliação de modelos de Machine Learning, bem como a criação de relatórios e dashboards que agregam valor à empresa portadora dos dados.
-
-## Principais Habilidades Técnicas
+## Habilidades Técnicas
 
 • Sistemas operacionais Windows/Linux; <br>
 • SQL para extração e manipulação de dados; <br>
