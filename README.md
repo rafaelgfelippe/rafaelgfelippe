@@ -7,14 +7,14 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
 
 ## Principais Habilidades Técnicas
 
-• Sistemas operacionais Windows/Linux <br>
+• Sistemas operacionais Windows/Linux; <br>
 • SQL para extração e manipulação de dados; <br>
 • Banco de dados como, MySQL, Oracle e MongoDB; <br>
 • Hadoop e Spark para Big Data; <br>
 • Python e R com foco em Data Science; <br>
 • Tableau, Qlik Sense e PowerBI. <br>
 
-Visite meu [portfólio de projeto](https://rafaelgfelippe.github.io/)!
+Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
 
 <div> 
   <a href="https://www.linkedin.com/in/rafaelfelippe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
