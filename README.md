@@ -8,11 +8,11 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
 ## Habilidades Técnicas
 
 • **Sistemas operacionais**: Linux e Windows; <br>
-• Banco de dados: MongoDB, MySQL e Oracle; <br>
-• Linguagens: Python, R e SQL; <br>
-• Big Data: Hadoop e Spark; <br>
-• Visualização de dados: PowerBI, Qlik Sense e Tableau; <br>
-• Cloud Computing: Amazon Web Services, Azure Machine Learning e Databricks; <br>
+• **Banco de dados**: MongoDB, MySQL e Oracle; <br>
+• **Linguagens**: Python, R e SQL; <br>
+• **Big Data**: Hadoop e Spark; <br>
+• **Visualização de dados**: PowerBI, Qlik Sense e Tableau; <br>
+• **Cloud Computing**: Amazon Web Services, Azure Machine Learning e Databricks; <br>
 
 
 Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
