@@ -5,16 +5,16 @@
 Atualmente trabalho em projetos de Data Science utilizando as principais ferramentas do mercado. 
 Nessa área, minha experiência profissional inclui a extração de dados em bancos relacionais e não relacionais, análise exploratória e pré-processamento dos dados, criação e avaliação de modelos de Machine Learning, bem como a criação de relatórios e dashboards que agregam valor à empresa portadora dos dados.
 
-### 💻 Skills and Tools
+## Principais Habilidades Técnincas
 
-- Python
-- Data Cleaning
-- Exploratory Data Analysis 
-- Data Preprocessing
-- Supervisioned Machine Learning
-- Microsoft Power BI and Data Visualization
+• Sistemas operacionais Windows/Linux;
+• SQL para extração e manipulação de dados; 
+• Banco de dados como, MySQL, Oracle e MongoDB;
+• Hadoop e Spark para Big Data; 
+• Python e R com foco em Data Science;
+• Tableau, Qlik Sense e PowerBI.
 
-Visite meu [portfólio de projeto](https://rafaelgfelippe.github.io/).
+Visite meu [portfólio de projeto](https://rafaelgfelippe.github.io/)!
 
 <div> 
   <a href="https://www.linkedin.com/in/rafaelfelippe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
