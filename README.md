@@ -2,14 +2,8 @@
   <img src = href="https://imgur.com/G7hYVoO"><img src="https://i.imgur.com/G7hYVoO.png" title="source: imgur.com" /></a>
 </p>
 
-### 👀 Who am I?
-
-A brazilian Data Scientist in learning mode, originally graduated as a mechanical engineer.
-I’m currently studying Data Science at Data Science Academy from Brazil, and also volunteer as data assessor at Brasil Cursinhos.
-
-### 🥇 My portfolio
-
-Please, visit my portfolio [here](https://moraes-ederson.github.io/portfolio_projetos/).
+Atualmente trabalho em projetos de Data Science utilizando as principais ferramentas do mercado. 
+Nessa área, minha experiência profissional inclui a extração de dados em bancos relacionais e não relacionais, análise exploratória e pré-processamento dos dados, criação e avaliação de modelos de Machine Learning, bem como a criação de relatórios e dashboards que agregam valor à empresa portadora dos dados.
 
 ### 💻 Skills and Tools
 
@@ -19,6 +13,8 @@ Please, visit my portfolio [here](https://moraes-ederson.github.io/portfolio_pro
 - Data Preprocessing
 - Supervisioned Machine Learning
 - Microsoft Power BI and Data Visualization
+
+Visite meu [portfólio de projeto](https://rafaelgfelippe.github.io/).
 
 <div> 
   <a href="https://www.linkedin.com/in/rafaelfelippe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
