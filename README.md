@@ -7,7 +7,7 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
 
 ## Habilidades Técnicas
 
-• Sistemas operacionais: Linux e Windows; <br>
+• **Sistemas operacionais**: Linux e Windows; <br>
 • Banco de dados: MongoDB, MySQL e Oracle; <br>
 • Linguagens: Python, R e SQL; <br>
 • Big Data: Hadoop e Spark; <br>
