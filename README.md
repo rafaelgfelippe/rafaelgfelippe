@@ -26,7 +26,7 @@ Please, visit my portfolio [here](https://moraes-ederson.github.io/portfolio_pro
 
 ####
  <div>
-  <a href="https://github.com/moraes-ederson">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraes-ederson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraes-ederson&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaelgfelippe">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelgfelippe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgfelippe&layout=compact&langs_count=7&theme=dracula"/>
  </div>
