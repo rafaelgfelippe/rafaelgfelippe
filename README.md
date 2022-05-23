@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = href="https://imgur.com/qltPPf5"><img src="https://i.imgur.com/qltPPf5.png" title="source: imgur.com" /></a>
+  <img src = href="https://imgur.com/DleoB7r"><img src="https://i.imgur.com/DleoB7r.png" title="source: imgur.com" /></a>
 </p>
 
 ## Habilidades Técnicas
