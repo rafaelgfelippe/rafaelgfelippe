@@ -5,9 +5,9 @@
 Atualmente trabalho em projetos de Data Science utilizando as principais ferramentas do mercado. 
 Nessa área, minha experiência profissional inclui a extração de dados em bancos relacionais e não relacionais, análise exploratória e pré-processamento dos dados, criação e avaliação de modelos de Machine Learning, bem como a criação de relatórios e dashboards que agregam valor à empresa portadora dos dados.
 
-## Principais Habilidades Técnincas
+## Principais Habilidades Técnicas
 
-• Sistemas operacionais Windows/Linux;
+• Sistemas operacionais Windows/Linux </b>
 • SQL para extração e manipulação de dados; 
 • Banco de dados como, MySQL, Oracle e MongoDB;
 • Hadoop e Spark para Big Data; 
