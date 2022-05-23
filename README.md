@@ -1,6 +1,6 @@
-## 👋 **Hi, I’m Ederson!**
-####
-![GitHub_Logo](data_has_better.jpg)
+<p align = "center">
+  <img src = href="https://imgur.com/G7hYVoO"><img src="https://i.imgur.com/G7hYVoO.png" title="source: imgur.com" /></a>
+</p>
 
 ### 👀 Who am I?
 
