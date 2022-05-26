@@ -14,25 +14,21 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
 • **Visualização de dados**: PowerBI, Qlik Sense e Tableau; <br>
 • **Cloud Computing**: Amazon Web Services, Azure Machine Learning e Databricks; <br>
 
-
-Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
-
  <div>
   <a href="https://github.com/rafaelgfelippe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelgfelippe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgfelippe&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<div align="center">
-  <h3 align="center">Entre em contato comigo!</h3> 
-</div>
-<p align="center">
+  ## Contatos
  <a href="https://www.linkedin.com/in/rafaelfelippe/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="mailto:rafaelfelippe_@hotmail.com" target="blank">
   <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/detain/svg-logos/blob/master/svg/outlook-icon.svg" /> &nbsp; &nbsp;
  </a>
+  
+  Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
   <br/>
   <br/>
  
