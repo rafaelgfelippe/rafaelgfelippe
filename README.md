@@ -27,8 +27,12 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
  <a href="mailto:rafaelfelippe_@hotmail.com" target="blank">
   <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/detain/svg-logos/blob/master/svg/outlook-icon.svg" /> &nbsp; &nbsp;
  </a>
+  </a>
+ <a href="https://rafaelgfelippe.github.io/" target="blank">
+  <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/GitHub.svg" /> &nbsp; &nbsp;
+ </a>
   
-  Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
+
   <br/>
   <br/>
  
