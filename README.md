@@ -29,7 +29,7 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
  </a>
   </a>
  <a href="https://rafaelgfelippe.github.io/" target="blank">
-  <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/GitHub.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/adamfairhead/webicons/blob/master/webicons/webicon-github.svg" /> &nbsp; &nbsp;
  </a>
   
 
