@@ -19,13 +19,13 @@ Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
 
 
 <div align="center">
-  <h3 align="center">Entre em contato comigo!="center"/></h3> 
+  <h3 align="center">Entre em contato comigo!</h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/rafaelfelippe/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="mailto:lucasokamura@gmail.com" target="blank">
+ <a href="mailto:rafaelfelippe_@hotmail.com" target="blank">
   <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/detain/svg-logos/blob/master/svg/outlook-icon.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
