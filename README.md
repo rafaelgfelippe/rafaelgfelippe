@@ -17,6 +17,11 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
 
 Visite meu [portfólio de projetos](https://rafaelgfelippe.github.io/)!
 
+ <div>
+  <a href="https://github.com/rafaelgfelippe">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelgfelippe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgfelippe&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 
 <div align="center">
   <h3 align="center">Entre em contato comigo!</h3> 
