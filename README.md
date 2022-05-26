@@ -71,6 +71,7 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
    </tr>
   </tbody>
 </table>
+<br>
 
 
 <div align="center">
