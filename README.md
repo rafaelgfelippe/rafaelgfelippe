@@ -20,7 +20,7 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgfelippe&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-  ## Contatos
+<div align="center">
  <a href="https://www.linkedin.com/in/rafaelfelippe/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
@@ -31,9 +31,6 @@ Nessa área, minha experiência profissional inclui a extração de dados em ban
  <a href="https://rafaelgfelippe.github.io/" target="blank">
   <img align="center" alt="Pramod's Hotmail" width="30px" src="https://github.com/adamfairhead/webicons/blob/master/webicons/webicon-github.svg" /> &nbsp; &nbsp;
  </a>
-  
-
-  <br/>
-  <br/>
+</div>
  
 ##
