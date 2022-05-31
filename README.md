@@ -2,8 +2,9 @@
   <img src = href="https://imgur.com/DleoB7r"><img src="https://i.imgur.com/DleoB7r.png" title="source: imgur.com" /></a>
 </p>
 
-Trabalho em projetos de Data Science utilizando as principais ferramentas do mercado. 
-Nessa área, minha experiência profissional inclui a extração de dados em bancos relacionais e não relacionais, análise exploratória e pré-processamento dos dados, criação e avaliação de modelos de Machine Learning, bem como a criação de relatórios e dashboards que agregam valor à empresa portadora dos dados.
+Possuo experiências em análises exploratórias e técnicas de machine learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de dar sentido aos dados e, em seguida, usar a visualização gráfica para apresentar o resultado final aos tomadores de decisão.
+
+Acredito que o compartilhamento de conhecimento e uma comunicação transparente são essenciais para desenvolver soluções seguras, robustas e inovadoras.
 
 ## Skills
 
