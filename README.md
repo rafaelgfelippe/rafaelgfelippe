@@ -2,9 +2,7 @@
   <img src = href="https://imgur.com/DleoB7r"><img src="https://i.imgur.com/DleoB7r.png" title="source: imgur.com" /></a>
 </p>
 
-Possuo experiências em análises exploratórias e técnicas de machine learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de dar sentido aos dados e, em seguida, usar a visualização gráfica para apresentar o resultado final aos tomadores de decisão.
-
-Acredito que o compartilhamento de conhecimento e uma comunicação transparente são essenciais para desenvolver soluções seguras, robustas e inovadoras.
+Possuo experiências em análises exploratórias e técnicas de machine learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de dar sentido aos dados e, em seguida, usar a visualização gráfica para apresentar o resultado final aos tomadores de decisão. Acredito que o compartilhamento de conhecimento e uma comunicação transparente são essenciais para desenvolver soluções seguras, robustas e inovadoras.
 
 ## Skills
 
