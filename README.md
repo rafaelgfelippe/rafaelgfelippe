@@ -2,9 +2,6 @@
   <img src = href="https://imgur.com/DleoB7r"><img src="https://i.imgur.com/DleoB7r.png" title="source: imgur.com" /></a>
 </p>
 
-Profissional com capacidade demonstrada em análise de dados, criação de modelos preditivos e técnicas de
-visualização de dados, com o objetivo de solucionar problemas de negócios adotando as melhores abordagens
-alinhadas aos resultados desejados.
 
 ## Skills
 
