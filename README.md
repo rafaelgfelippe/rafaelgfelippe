@@ -5,7 +5,6 @@
 
 ## Skills
 
-• **Sistemas operacionais**: Linux e Windows; <br>
 • **Banco de dados**: MongoDB, MySQL e Oracle; <br>
 • **Linguagens**: Python, R e SQL; <br>
 • **Big Data**: Hadoop e Spark; <br>
