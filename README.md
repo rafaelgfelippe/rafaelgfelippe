@@ -9,7 +9,7 @@
 • **Linguagens**: Python, R e SQL; <br>
 • **Big Data**: Hadoop e Spark; <br>
 • **Visualização de dados**: PowerBI, Qlik Sense e Tableau; <br>
-• **Cloud Computing**: Amazon Web Services, Azure Machine Learning e Databricks; <br>
+• **Cloud Computing**: Amazon Web Services e Azure Machine Learning. <br>
 
 <table>
   <tbody>
