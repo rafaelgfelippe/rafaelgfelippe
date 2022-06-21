@@ -5,11 +5,13 @@
 
 ## Skills
 
-• **Banco de dados**: MongoDB, MySQL e Oracle; <br>
-• **Linguagens**: Python, R e SQL; <br>
-• **Big Data**: Hadoop e Spark; <br>
-• **Visualização de dados**: PowerBI, Qlik Sense e Tableau; <br>
-• **Cloud Computing**: Amazon Web Services, Azure Machine Learning e Google Cloud Platform. <br>
+• Banco de dados: BD Oracle, MongoDB, MySQL, PostgreSQL; <br>
+• Cloud Computing: Amazon Web Services, Azure Machine Learning e Google Cloud Platform; <br>
+• Git e Github; <br>
+• Linguagens: Python, R e SQL; <br>
+• Machine Learning: Caret, Scikit-Learn, TensorFlow; <br>
+• Visualização de dados: PowerBI, Qlik Sense e Tableau; <br>
+• Webscraping: Beautiful Soup. <br>
 
 <table>
   <tbody>
